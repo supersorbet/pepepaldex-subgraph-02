@@ -1,10 +1,10 @@
-This subgraph dynamically tracks any pair created by the uniswap factory. It tracks of the current state of IceCreamSwap contracts, and contains derived stats for things like historical data and USD prices.
+This subgraph dynamically tracks any pair created by the uniswap factory. It tracks of the current state of PepeDex contracts, and contains derived stats for things like historical data and USD prices.
 
 - aggregated data across pairs and tokens,
 - data on individual pairs and tokens,
 - data on transactions
 - data on liquidity providers
-- historical data on IceCreamSwap, pairs or tokens, aggregated by day
+- historical data on PepeDex, pairs or tokens, aggregated by day
 
 ## Running Locally
 
